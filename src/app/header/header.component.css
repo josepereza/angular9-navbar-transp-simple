@@ -1,0 +1,14 @@
+.cuerpo{
+    left:0px;
+    top:0px;
+    
+    height: 100vh;
+    background-position: center center;
+
+    background-image: url("../../assets/imagenes/violeta-y-fabio.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+   
+}

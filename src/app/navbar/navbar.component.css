@@ -1,0 +1,26 @@
+.example-container {
+
+   
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  
+  .example-toolbar {
+    background-color:  rgba(46, 138, 138, 0.1); 
+
+   
+  };
+  
+  .example-app-name  h1 {
+    margin-left: 18px;
+  }
+  
+  
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
