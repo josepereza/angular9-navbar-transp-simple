@@ -8,15 +8,18 @@
     right: 0;
   }
   
-  
-  .example-toolbar {
-    background-color:  rgba(46, 138, 138, 0.1); 
+  #barramenu {
+    position: fixed;
+  }
+  .botonmenu{
+    
+    background-color: rgba(46, 138, 138, 0.1) !important;
+  }
 
-   
-  };
+
   
-  .example-app-name  h1 {
-    margin-left: 18px;
+  .example-app-name  {
+    margin-left: 40px;
   }
   
   
